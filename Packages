@@ -1,0 +1,13 @@
+Package: com.JHSCCP.DateinStatusBar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
+Filename: /DateinStatusBar.deb
+Size: 3630
+MD5sum: 6EBFC1D74D4F6AAFFA2D4930D098EEC8
+SHA1: E117BBDDE30D0F557C727247036CE6023E375DF0
+SHA256: E4C9EE108D62775FAAD213003F32D4320630D024C3682D818A78C3BB0FD0CF30
+Section: Ajustes
+Description: Data na Barra de Status
+Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
+Name: DateinStatusBar
