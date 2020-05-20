@@ -1,16 +1,16 @@
-Package: com.JHSCCP.DateinStatusBar
+Package: com.cordev.DateinStatusBar
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
-Filename: /DateinStatusBar.deb
+Filename: /Date in StatusBar.deb
 Size: 3630
 MD5sum: 6ebfc1d74d4f6aaffa2d4930d098eec8
-Section: Ajustes
-Description: Data na Barra de Status
+Section: Tweaks
+Description: Ajustes
 Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
-Name: DateinStatusBar
+Name: Date in StatusBar
 
-Package: com.JHSCCP.CocoaTop
+Package: com.cordev.CocoaTop
 Version: 2.0.2-1debug
 Architecture: iphoneos-arm
 Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
@@ -21,3 +21,15 @@ Section: Tweaks
 Description: Ajustes
 Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
 Name: CocoaTop
+
+Package: com.cordev.thesimsmobile
+Version: 2.2.2.2
+Architecture: iphoneos-arm
+Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
+Filename: /The Sims Mobile.deb
+Size: 1039332
+MD5sum: 88062f992a05a85e46d04b66b8563a79
+Section: Tweaks
+Description: Ajustes
+Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
+Name: The Sims Mobile
