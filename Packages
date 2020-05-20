@@ -4,9 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
 Filename: /DateinStatusBar.deb
 Size: 3630
-MD5sum: 6ebfc1d74d4d6aaffa2d4930d098eec8
-SHA1: e117bbdde30d0f557c727247036ce6023e375df0
-SHA256: e4d9ee108d62775faad213003f32d4320630d024c3682d818a78c3bb0fd0cf30
+MD5sum: 6ebfc1d74d4f6aaffa2d4930d098eec8
 Section: Ajustes
 Description: Data na Barra de Status
 Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
@@ -19,8 +17,6 @@ Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
 Filename: /CocoaTop.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
-SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
-SHA256: 143609060c4cb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
 Section: Tweaks
 Description: Ajustes
 Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
