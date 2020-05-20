@@ -4,24 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
 Filename: /DateinStatusBar.deb
 Size: 3630
-MD5sum: 6EBFC1D74D4F6AAFFA2D4930D098EEC8
-SHA1: E117BBDDE30D0F557C727247036CE6023E375DF0
-SHA256: E4C9EE108D62775FAAD213003F32D4320630D024C3682D818A78C3BB0FD0CF30
+MD5sum: 6ebfc1d74d4d6aaffa2d4930d098eec8
+SHA1: e117bbdde30d0f557c727247036ce6023e375df0
+SHA256: e4d9ee108d62775faad213003f32d4320630d024c3682d818a78c3bb0fd0cf30
 Section: Ajustes
 Description: Data na Barra de Status
 Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
 Name: DateinStatusBar
-
-Package: com.JHSCCP.CastlevaniaGoS
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
-Filename: /Castlevania GoS.deb
-Size: 2361762
-MD5sum: A96DEF052DD310C0F9718E9221DF9769
-SHA1: 53451718B9764ADBFBA0B6D030D14F9AC126ED2A
-SHA256: ABDE0DD6E8BB1DCE7ED1D6B66FAC789ED20C70FE3528744A50A136A76274A228
-Section: Hacks
-Description: Hack
-Author: Henrique Alves <sc19jhenrique.alves10cp@hotmail.com>
-Name: Castlevania Grimmoire of Souls
